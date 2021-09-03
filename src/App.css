@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&family=Titillium+Web:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+/* .btn {
+  background-color: #E1C699;
+  color: black;
+  float: right;
+  margin: 4px 50px;
+  width: 150px;
+  height: 52px;
+  left: auto;
+} */
+.card-img-top{
+  width: 60%;
+  height: 60%;
+  margin-left: 60px;
+  margin: auto;
+  /* margin: 2em; */
+  border-radius: 50%;
+}
+.card{
+  width: 8rem;
+  height: 93%;
+  background-color: #B1624EFF;
+  color: #E1C699;
+  left: 40px;
+  right: 40px;
+  padding: 10px 10px;
+  margin: 0.5em;
+  margin-left: 30em; 
+   border-radius:20px;
+   border: 1px solid #B1624EFF
+}
+.card:hover{
+  /* background-color: #d46000; */
+  /* background-color: rgba(248, 172, 7, 0.836); */
+  background-color: rgb(79, 125, 179);
+  
+  transform: scale(1.1);
+  transition-duration: 0.5s;
+  box-shadow: 2px 3px 19px 9px rgba(0, 0, 0, 0.836);
+ }
+.card-deck{
+  margin: 0.9em;
+  width: 29%;
+ 
+}
+/* .card-text{
+  font-size: 25px;
+  margin: 10px;
+  text-decoration-color:  #fde932;
+} */
+
+.button_btn{
+  background-color: #00203F;
+  color: #FFF;;
+  border: 2px solid  #00203F;
+  border-radius: 10px;
+  margin-left: 15px;
+ 
+  letter-spacing: 3px;
+  font-family: 'Titillium Web',
+  sans-serif;
+}
+.name{
+  margin: 10px;
+  color: rgb(255, 255, 255);
+  padding: 1px;
+  font-family: 'Titillium Web',
+  sans-serif;
+}
+
+.email{
+  margin: 10px;
+  color: rgb(255, 255, 255);
+  padding: 1px;
+  font-family: 'Titillium Web',
+  sans-serif;
+}
+
+.gr{
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Pacifico',
+  cursive;
+  margin-top: 100px;
+}

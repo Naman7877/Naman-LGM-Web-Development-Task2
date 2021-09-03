@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Besley:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&family=Titillium+Web:ital,wght@1,600&display=swap');
+
+
+.Header {
+    background-color: #00203FFF;
+    margin-bottom: 20px;
+    letter-spacing:20px;
+    padding:10px;
+    text-align: center;
+}
+
+
+.brand {
+    font-family: 'Rampart One',
+    cursive;
+    color: white;
+    font-size: 33px;
+    background-color: #00203FFF;
+    display: inline-block;
+    
+}
+.time {
+   
+    display: inline;
+    float:right;
+    color: white;
+    width: 110px;
+    
+  
+    margin-top: 10px;
+    /* margin: 10px;
+    
+    padding:10px; */
+    
+    align-items:center;
+    align-content: center;
+    font-family: 'Rampart One',
+    cursive;
+    background-color: #00203FFF;
+    font-weight: 300;
+    letter-spacing: 6px;
+}
